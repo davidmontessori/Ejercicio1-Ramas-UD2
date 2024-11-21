@@ -3,7 +3,7 @@ package saludos;
 import java.util.Scanner;
 
 public class Saludos {
-	final static int HORA = 4;
+	final static int HORA = 13;
 
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo");
